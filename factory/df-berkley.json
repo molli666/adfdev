@@ -1,0 +1,9 @@
+{
+	"name": "df-berkley",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "06cdb0d2-b252-42d4-9cd2-9b80783e2f2e",
+		"tenantId": "053e7fe0-3aca-4f0f-b8cc-bd84ab47edcb"
+	}
+}
